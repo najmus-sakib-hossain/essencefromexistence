@@ -3,28 +3,103 @@
   "root": true,
   "extends": [
     "next/core-web-vitals",
-    "plugin:tailwindcss/recommended"
+    "plugin:tailwindcss/recommended",
+    "prettier"
   ],
   "plugins": [
     "tailwindcss"
   ],
   "ignorePatterns": [
-    "**/fixtures/**"
+    "**/fixtures/**",
+    "**/.next/**",
+    "**/node_modules/**",
+    "**/out/**",
+    "**/dist/**",
+    "**/build/**",
+    "**/.contentlayer/**"
   ],
   "rules": {
+    // Next.js specific
     "@next/next/no-html-link-for-pages": "off",
-    "tailwindcss/no-custom-classname": "off",
-    "tailwindcss/classnames-order": "error",
     "@next/next/no-duplicate-head": "off",
-    "tailwindcss/enforces-negative-arbitrary-values": "off"
+    "@next/next/no-img-element": "warn",
+    
+    // Tailwind CSS
+    "tailwindcss/no-custom-classname": "off",
+    "tailwindcss/classnames-order": "warn",
+    "tailwindcss/enforces-negative-arbitrary-values": "off",
+    "tailwindcss/migration-from-tailwind-2": "warn",
+    
+    // General
+    "no-console": ["warn", { "allow": ["warn", "error"] }],
+    "no-unused-vars": "off",
+    "@typescript-eslint/no-unused-vars": [
+      "warn",
+      {
+        "argsIgnorePattern": "^_",
+        "varsIgnorePattern": "^_",
+        "caughtErrorsIgnorePattern": "^_"
+      }
+    ],
+    "@typescript-eslint/no-explicit-any": "warn",
+    "prefer-const": "warn",
+    "react/jsx-curly-brace-presence": ["warn", { "props": "never", "children": "never" }],
+    "react/self-closing-comp": "warn",
+    "react-hooks/exhaustive-deps": "warn",
+    "import/order": [
+      "warn",
+      {
+        "groups": [
+          "builtin",
+          "external",
+          "internal",
+          "parent",
+          "sibling",
+          "index",
+          "object",
+          "type"
+        ],
+        "pathGroups": [
+          {
+            "pattern": "react",
+            "group": "external",
+            "position": "before"
+          },
+          {
+            "pattern": "next/**",
+            "group": "external",
+            "position": "before"
+          },
+          {
+            "pattern": "@/**",
+            "group": "internal",
+            "position": "before"
+          }
+        ],
+        "pathGroupsExcludedImportTypes": ["react", "next"],
+        "newlines-between": "always",
+        "alphabetize": {
+          "order": "asc",
+          "caseInsensitive": true
+        }
+      }
+    ]
   },
   "settings": {
     "tailwindcss": {
       "callees": [
         "cn",
-        "cva"
+        "cva",
+        "clsx"
       ],
-      "config": "tailwind.config.ts"
+      "config": "tailwind.config.ts",
+      "cssFiles": [
+        "**/*.css",
+        "!**/node_modules",
+        "!**/.*",
+        "!**/dist",
+        "!**/build"
+      ]
     },
     "next": {
       "rootDir": [
@@ -38,7 +113,10 @@
         "*.ts",
         "*.tsx"
       ],
-      "parser": "@typescript-eslint/parser"
+      "parser": "@typescript-eslint/parser",
+      "parserOptions": {
+        "project": "./tsconfig.json"
+      }
     }
   ]
 }

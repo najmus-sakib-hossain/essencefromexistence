@@ -1,25 +1,62 @@
 {
   "$schema": "https://json.schemastore.org/tsconfig",
   "compilerOptions": {
-    "target": "es5",
-    "lib": ["dom", "dom.iterable", "esnext"],
-    "allowJs": true,
-    "skipLibCheck": true,
-    "strict": true,
-    "forceConsistentCasingInFileNames": true,
-    "noEmit": true,
-    "incremental": true,
-    "esModuleInterop": true,
+    // Language and Environment
+    "target": "ES2022",
+    "lib": ["dom", "dom.iterable", "esnext", "ES2022"],
+    "jsx": "preserve",
+    
+    // Modules
     "module": "esnext",
     "moduleResolution": "bundler",
     "resolveJsonModule": true,
+    "allowJs": true,
+    
+    // Emit
+    "noEmit": true,
+    "incremental": true,
+    "sourceMap": true,
+    
+    // Interop Constraints
+    "esModuleInterop": true,
+    "allowSyntheticDefaultImports": true,
     "isolatedModules": true,
-    "jsx": "preserve",
+    "forceConsistentCasingInFileNames": true,
+    
+    // Type Checking
+    "strict": true,
+    "noUnusedLocals": true,
+    "noUnusedParameters": true,
+    "noImplicitReturns": true,
+    "noFallthroughCasesInSwitch": true,
+    "noUncheckedIndexedAccess": true,
+    "noImplicitOverride": true,
+    "allowUnusedLabels": false,
+    "allowUnreachableCode": false,
+    "exactOptionalPropertyTypes": false,
+    "noPropertyAccessFromIndexSignature": false,
+    
+    // Completeness
+    "skipLibCheck": true,
+    
+    // Path Mapping
     "baseUrl": ".",
     "paths": {
       "@/*": ["./*"],
+      "@/components/*": ["./components/*"],
+      "@/app/*": ["./app/*"],
+      "@/lib/*": ["./lib/*"],
+      "@/hooks/*": ["./hooks/*"],
+      "@/types/*": ["./types/*"],
+      "@/config/*": ["./config/*"],
+      "@/styles/*": ["./styles/*"],
+      "@/data/*": ["./data/*"],
+      "@/content/*": ["./content/*"],
+      "@/public/*": ["./public/*"],
       "contentlayer/generated": ["./.contentlayer/generated"]
     },
+    
+    // Next.js
     "plugins": [
       {
         "name": "next"
@@ -30,10 +67,18 @@
     "next-env.d.ts",
     "**/*.ts",
     "**/*.tsx",
+    "**/*.mts",
     ".next/types/**/*.ts",
     ".contentlayer/generated",
     "./scripts/**/*.ts"
   ],
-  "exclude": ["node_modules", "__registry__"]
+  "exclude": [
+    "node_modules",
+    "__registry__",
+    ".next",
+    "out",
+    "build",
+    "dist"
+  ]
 }
 
