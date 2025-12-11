@@ -1,7 +1,7 @@
 ALL THE OTHERS
 ```
-PORTFOLIO: https://manfromexistence.vercel.app/
-GitHub: https://github.com/manfromexistence
+PORTFOLIO: https://essencefromexistence.vercel.app/
+GitHub: https://github.com/essencefromexistence
 
 Hello, I am 100% sure that I can do this project.
 I am an experienced fullstack software engineer who loves to learn new techs and make something useful from that. My skills list:
@@ -27,13 +27,13 @@ New Online Study Website: https://ustudy-mahabub.vercel.app/
 
 So, Thank you. Yes,  (👊)you my friend that you made it this far. I personally with my bare hands using the my bare bare... or just the keyboard... Keyboard made this proposal. Didn't used any chatGPT or any of those Ai's out there. So, I am hoping that you will find this proposal funny and If you think that your project needs someone like me then don't keep that thought in only at your mind and just message me in my account.
 
-This is --> MD MAHABUB HOSEN - manfromexistence (Peace out + Signing OUT + Sayonara)
+This is --> MD MAHABUB HOSEN - essencefromexistence (Peace out + Signing OUT + Sayonara)
 ```
 
 FREELANCER
 ```
-PORTFOLIO: https://manfromexistence.vercel.app
-GITHUB: https://github.com/manfromexistence
+PORTFOLIO: https://essencefromexistence.vercel.app
+GITHUB: https://github.com/essencefromexistence
 
 Hello, I am 100% sure that I can do this project.
 I am an experienced fullstack software engineer who loves to learn new techs and make something useful from that. 
@@ -51,13 +51,13 @@ New Online Study Website: https://ustudy-mahabub.vercel.app/
 
 So, Thank you. Yes,  (👊)you my friend that you made it this far. I personally with my bare hands using the my bare bare... or just the keyboard... Keyboard made this proposal. Didn't used any chatGPT or any of those Ai's out there. So, I am hoping that you will find this proposal funny and If you think that your project needs someone like me then don't keep that thought in only at your mind and just message me in my account.
 
-This is --> MD MAHABUB HOSEN - manfromexistence (Peace out + Signing OUT + Sayonara)
+This is --> MD MAHABUB HOSEN - essencefromexistence (Peace out + Signing OUT + Sayonara)
 ```
 
 # Doctor and Patients
 ```
-Portfolio: https://manfromexistence.vercel.app/
-GitHub: https://github.com/manfromexistence
+Portfolio: https://essencefromexistence.vercel.app/
+GitHub: https://github.com/essencefromexistence
 
 Hello,
 
@@ -91,5 +91,5 @@ So, thank you. Yes, (👊) you, my friend, for making it this far.
 
 If you think your project needs someone like me, don't hesitate to send a message.
 
-MD MAHABUB HOSEN - manfromexistence (Peace out!)
+MD MAHABUB HOSEN - essencefromexistence (Peace out!)
 ```

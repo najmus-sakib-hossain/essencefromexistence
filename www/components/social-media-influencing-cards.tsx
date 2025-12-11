@@ -23,21 +23,21 @@ export default function SocialMediaCards({ onProgressUpdate }: { onProgressUpdat
     const activities = [
         {
             id: "mainChannel",
-            name: "ManFromExistence",
+            name: "EssenceFromExistence",
             time: "Main Channel Content",
             duration: "40 minutes",
             icon: Video,
         },
         {
             id: "thoughtsChannel",
-            name: "ManFromExistence Thoughts",
+            name: "EssenceFromExistence Thoughts",
             time: "Ideas & Entertainment",
             duration: "40 minutes",
             icon: Brain,
         },
         {
             id: "gamingChannel",
-            name: "ManFromExistence Gaming",
+            name: "EssenceFromExistence Gaming",
             time: "Gaming Content",
             duration: "40 minutes",
             icon: Gamepad,

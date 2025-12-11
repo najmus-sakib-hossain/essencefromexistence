@@ -8,7 +8,7 @@ export const blogs = [
     created_at: new Date("13/10/2024").toLocaleString(),
     link: "https://youtu.be/-FXdZ5mX_ks?si=wX8RwOXqtZOPeOyy",
     article: "",
-    image: "/contents/manfromexistence.jpg",
+    image: "/contents/essencefromexistence.jpg",
     keywords: [],
   },
   {
@@ -83,7 +83,7 @@ export const projects = [
     created_at: new Date("13/10/2024").toLocaleString(),
     link: "https://youtu.be/-FXdZ5mX_ks?si=wX8RwOXqtZOPeOyy",
     article: "",
-    image: "/contents/manfromexistence.jpg",
+    image: "/contents/essencefromexistence.jpg",
     keywords: [],
   },
   {
@@ -158,7 +158,7 @@ export const products = [
     created_at: new Date("13/10/2024").toLocaleString(),
     link: "https://youtu.be/-FXdZ5mX_ks?si=wX8RwOXqtZOPeOyy",
     article: "",
-    image: "/contents/manfromexistence.jpg",
+    image: "/contents/essencefromexistence.jpg",
     keywords: [],
   },
   {

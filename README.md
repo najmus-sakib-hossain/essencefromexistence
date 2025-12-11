@@ -1,6 +1,6 @@
-# manfromexistence 👋
+# essencefromexistence 👋
 <div align="center">
-  <img hight="300" width="100%" alt="manfromexistence" src="./inventory/manfromexistence.gif">
+  <img hight="300" width="100%" alt="essencefromexistence" src="./inventory/essencefromexistence.gif">
 </div>
 
 <!-- ```
@@ -26,8 +26,8 @@ ashikul-islam-shimul
 fariya-jahan-tazmi
 antu-das-nirob/
 
-ManFromExistence(13/10/2005)(3)(sumon):;@!:)
-ManFromExistence(13/10/2005)(3)(sumon):;@!:)
+EssenceFromExistence(13/10/2005)(3)(sumon):;@!:)
+EssenceFromExistence(13/10/2005)(3)(sumon):;@!:)
 npm install -g npm@11.1.0 && npm install -g bun && bun install && bun run dev
 
 git add . && git commit -m "feat: this is an automated commit made by manfromexitence from manfromexsitence02 account" && git push
@@ -52,7 +52,7 @@ npm install -g npm@10.8.3 && npm install -g bun
 bun install && bun run dev
 bun pm trust --all 
 rm -rf .contentlayer .next node_modules
-git add . && git commit -m "feat: automated commit by manfromexistence" && git push
+git add . && git commit -m "feat: automated commit by essencefromexistence" && git push
 ```
 
 ## Nextjs15 and Tailwind4.3
@@ -158,10 +158,10 @@ git add . && git commit -m "feat: automated commit by manfromexistence" && git p
 	<br>
 </div>
 
-### This is --> manfromexistence(Peace out + HACKING/SIGNING OUT + Sayonara)
+### This is --> essencefromexistence(Peace out + HACKING/SIGNING OUT + Sayonara)
 
 <div align="center">
-	<img src="./inventory/manfromexistence.jpg" width="100%">
+	<img src="./inventory/essencefromexistence.jpg" width="100%">
 </div>
 
 <!-- ```

@@ -72,7 +72,7 @@ export default function Home() {
                 <div className='flex w-full items-center justify-center space-x-4 rounded-md p-2 hover:bg-primary-foreground hover:text-primary md:justify-evenly'>
                   <Image width={50} height={50} src='/MANFROMEXISTENCE.jpg' alt='manfromexistnece' className='rounded-md' />
                   <div className='flex flex-col'>
-                    <span className='text-foreground'>manfromexistence</span>
+                    <span className='text-foreground'>essencefromexistence</span>
                     <span>Currently Do Exists</span>
                   </div>
                   <div className='flex size-10 items-center justify-center rounded-full border p-1'>
@@ -81,19 +81,19 @@ export default function Home() {
                 </div>
                 <Separator className="my-4" />
                 <div className='flex items-center justify-center space-x-2'>
-                  <Link href={"https://www.youtube.com/@manfromexistence"} className='flex size-12 items-center justify-center rounded-full bg-primary-foreground text-primary'>
+                  <Link href={"https://www.youtube.com/@essencefromexistence"} className='flex size-12 items-center justify-center rounded-full bg-primary-foreground text-primary'>
                     <YouTube />
                   </Link>
                   <Link href={"https://otieu.com/4/9536902"} className='flex size-12 items-center justify-center rounded-full bg-primary-foreground text-primary'>
                     <XformerlyTwitter className="invert dark:invert-0" />
                   </Link>
-                  <Link href={"https://github.com/manfromexistence"} className='flex size-12 items-center justify-center rounded-full bg-primary-foreground text-primary'>
+                  <Link href={"https://github.com/essencefromexistence"} className='flex size-12 items-center justify-center rounded-full bg-primary-foreground text-primary'>
                     <Github className="invert dark:invert-0" />
                   </Link>
                   <Link href={"https://www.linkedin.com/in/man-from-existence-a50180314/"} className='flex size-12 items-center justify-center rounded-full bg-primary-foreground text-primary'>
                     <LinkedIn />
                   </Link>
-                  <Link href={"https://www.threads.net/@manfromexistence?xmt=AQGzX0O_Vpo7BfxG054NKG79SDenEBx2ZFmcE11qaGLN5uw"} className='flex size-12 items-center justify-center rounded-full bg-primary-foreground text-primary'>
+                  <Link href={"https://www.threads.net/@essencefromexistence?xmt=AQGzX0O_Vpo7BfxG054NKG79SDenEBx2ZFmcE11qaGLN5uw"} className='flex size-12 items-center justify-center rounded-full bg-primary-foreground text-primary'>
                     <Threads className="invert dark:invert-0" />
                   </Link>
                   <Link target="_blank" href={"mailto:ajju40959@gmail.com"} className='flex size-12 items-center justify-center rounded-full bg-primary-foreground text-primary'>

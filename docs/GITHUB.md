@@ -1,4 +1,4 @@
-# manfromexistence
+# essencefromexistence
 ```
 b22df-4f229 
 b43af-36d53 
@@ -18,7 +18,7 @@ fa89c-b644b
 3c846-afb91
 ```
 
-# manfromexistence01
+# essencefromexistence01
 ```
 ecd82-90303 
 11ed0-4d105 
@@ -38,7 +38,7 @@ d0c60-30b20
 8d5c9-f46fb
 ```
 
-# manfromexistence04
+# essencefromexistence04
 ```
 3fe5d-16f90 
 5edf0-466ad 

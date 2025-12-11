@@ -20,7 +20,7 @@ export default function AppLayout({ children }: AppLayoutProps) {
             <header className="absolute left-0 top-0 flex h-12 w-full">
               <div className="flex h-12 p-2">
                 <span className="flex h-full w-48 items-center truncate font-bold transition-colors duration-200">
-                  manfromexistence
+                  essencefromexistence
                 </span>
               </div>
               <RightSidebar />

@@ -45,7 +45,7 @@ export default function Page() {
   return (
     <main className="size-full overflow-auto p-2 pb-12" suppressHydrationWarning>
       <PixelatedText fontSize={40} pixelSize={3} position="left" className="py-6">
-        {getTimeBasedGreeting()}, <PixelatedText.Rainbow>manfromexistence</PixelatedText.Rainbow>. Level <PixelatedText.Rainbow>#19</PixelatedText.Rainbow> : Streak <PixelatedText.Rainbow>#1</PixelatedText.Rainbow>
+        {getTimeBasedGreeting()}, <PixelatedText.Rainbow>essencefromexistence</PixelatedText.Rainbow>. Level <PixelatedText.Rainbow>#19</PixelatedText.Rainbow> : Streak <PixelatedText.Rainbow>#1</PixelatedText.Rainbow>
       </PixelatedText>
 
       <div className="flex h-20 w-full items-center justify-start border">

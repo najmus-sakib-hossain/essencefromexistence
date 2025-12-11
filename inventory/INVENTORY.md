@@ -8,7 +8,7 @@ g++ -std=c++11 calculate-roots.cpp -o calculate-roots && ./calculate-roots
 -->
 
 <!-- <div align="center">
-  <img hight="300" width="300" alt="manfromexistence" align="center" src="./manfromexistence.gif">
+  <img hight="300" width="300" alt="essencefromexistence" align="center" src="./essencefromexistence.gif">
 </div>
 </br> -->
 
@@ -227,19 +227,19 @@ const LEGENDS = [
     { name: "Danny Koppenhagen d-koppenhagen", url: "https://github.com/d-koppenhagen" },
     { name: "编程吴彦祖 代码蔡徐坤 itgoyo", url: "https://github.com/itgoyo" },
     { name: "Sindre Sorhus sindresorhus", url: "https://github.com/sindresorhus" },
-    { name: "Programming manfromexistence-programming", url: "https://github.com/manfromexistence-programming" },
-    { name: "Neonslash manfromexistence-neonslash", url: "https://github.com/manfromexistence-neonslash" },
-    { name: "Better manfromexistence-better", url: "https://github.com/manfromexistence-better" },
-    { name: "Friday manfromexistence-friday", url: "https://github.com/manfromexistence-friday" },
-    { name: "Limitless manfromexistence-limitless", url: "https://github.com/manfromexistence-limitless" },
-    { name: "Cosmic manfromexistence-cosmic", url: "https://github.com/manfromexistence-cosmic" },
-    { name: "Nanotech manfromexistence-nanotech", url: "https://github.com/manfromexistence-nanotech" },
-    { name: "Aladdin manfromexistence-aladdin", url: "https://github.com/manfromexistence-aladdin" },
-    { name: "Hello manfromexistence-hello", url: "https://github.com/manfromexistence-hello" },
-    { name: "Dx manfromexistence-dx", url: "https://github.com/manfromexistence-dx" },
-    { name: "Multiverse manfromexistence-multiverse", url: "https://github.com/manfromexistence-multiverse" },
+    { name: "Programming essencefromexistence-programming", url: "https://github.com/essencefromexistence-programming" },
+    { name: "Neonslash essencefromexistence-neonslash", url: "https://github.com/essencefromexistence-neonslash" },
+    { name: "Better essencefromexistence-better", url: "https://github.com/essencefromexistence-better" },
+    { name: "Friday essencefromexistence-friday", url: "https://github.com/essencefromexistence-friday" },
+    { name: "Limitless essencefromexistence-limitless", url: "https://github.com/essencefromexistence-limitless" },
+    { name: "Cosmic essencefromexistence-cosmic", url: "https://github.com/essencefromexistence-cosmic" },
+    { name: "Nanotech essencefromexistence-nanotech", url: "https://github.com/essencefromexistence-nanotech" },
+    { name: "Aladdin essencefromexistence-aladdin", url: "https://github.com/essencefromexistence-aladdin" },
+    { name: "Hello essencefromexistence-hello", url: "https://github.com/essencefromexistence-hello" },
+    { name: "Dx essencefromexistence-dx", url: "https://github.com/essencefromexistence-dx" },
+    { name: "Multiverse essencefromexistence-multiverse", url: "https://github.com/essencefromexistence-multiverse" },
     { name: "Epic Games EpicGames", url: "https://github.com/EpicGames" },
-    { name: "manfromexistence01", url: "https://github.com/manfromexistence01" },
+    { name: "essencefromexistence01", url: "https://github.com/essencefromexistence01" },
     { name: "Being Of Existence beingofexistence13", url: "https://github.com/beingofexistence13" },
     { name: "Ollama ollama", url: "https://github.com/ollama" },
     { name: "Seyaha SeyahaNET", url: "https://github.com/SeyahaNET" },

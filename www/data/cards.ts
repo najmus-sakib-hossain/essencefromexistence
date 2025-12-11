@@ -71,7 +71,7 @@ export const cards: any = {
         activities: [
             {
                 id: "mainChannel",
-                name: "ManFromExistence",
+                name: "EssenceFromExistence",
                 time: "Main Channel Content",
                 duration: "40 minutes",
                 icon: "Video",

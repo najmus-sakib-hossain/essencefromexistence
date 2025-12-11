@@ -16,11 +16,11 @@ export const metadata: Metadata = {
   keywords: ["Friday", "Multiverse", "Hello", "Aladdin", "Dx"],
   authors: [
     {
-      name: "manfromexistence",
-      url: "https://manfromexistence.com",
+      name: "essencefromexistence",
+      url: "https://essencefromexistence.com",
     },
   ],
-  creator: "manfromexistence",
+  creator: "essencefromexistence",
   openGraph: {
     type: "website",
     locale: "en_US",
@@ -42,7 +42,7 @@ export const metadata: Metadata = {
     title: siteConfig.name,
     description: siteConfig.description,
     images: [siteConfig.ogImage],
-    creator: "@manfromexistence",
+    creator: "@essencefromexistence",
   },
   icons: {
     icon: "/favicon.ico",

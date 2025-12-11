@@ -145,149 +145,149 @@ export default function IOSDOCk() {
         <div className="!pb-100 fixed bottom-4 left-1/2 z-50 flex w-full -translate-x-1/2 items-center justify-center">
             <Dock magnification={65} distance={113}>
                 <DockIcon className="rounded-full bg-secondary p-1 dark:bg-primary-foreground">
-                    <Link target="_blank" href="https://manfromexistence-friday.vercel.app/">
-                        <Image className="invert-0 dark:invert" src="/manfromexistence/algorithm.svg" height={25} width={25} alt="friday" />
+                    <Link target="_blank" href="https://essencefromexistence-friday.vercel.app/">
+                        <Image className="invert-0 dark:invert" src="/essencefromexistence/algorithm.svg" height={25} width={25} alt="friday" />
                     </Link>
                 </DockIcon>
                 <DockIcon className="rounded-full bg-secondary p-1 dark:bg-primary-foreground">
-                    <Link target="_blank" href="https://manfromexistence-ui.vercel.app">
-                        <Image className="invert dark:invert-0" src="/manfromexistence/ui.png" height={75} width={75} alt="ui" />
+                    <Link target="_blank" href="https://essencefromexistence-ui.vercel.app">
+                        <Image className="invert dark:invert-0" src="/essencefromexistence/ui.png" height={75} width={75} alt="ui" />
                     </Link>
                 </DockIcon>
                 <DockIcon className="rounded-full bg-secondary p-3 dark:bg-primary-foreground">
                     <Link target="_blank" href="https://ustudy-mahabub.vercel.app/">
-                        <Image className="invert-0 dark:invert" src="/manfromexistence/auth.svg" height={75} width={75} alt="ustudy" />
+                        <Image className="invert-0 dark:invert" src="/essencefromexistence/auth.svg" height={75} width={75} alt="ustudy" />
                     </Link>
                 </DockIcon>
                 <DockIcon className="hidden rounded-full bg-secondary p-3 dark:bg-primary-foreground md:block">
                     <Link target="_blank" href="https://spark-labs-website.vercel.app/">
-                        <Image className="invert-0 dark:invert" src="/manfromexistence/ai.svg" height={75} width={75} alt="sparklabs" />
+                        <Image className="invert-0 dark:invert" src="/essencefromexistence/ai.svg" height={75} width={75} alt="sparklabs" />
                     </Link>
                 </DockIcon>
                 <DockIcon className="hidden rounded-full bg-secondary p-3 dark:bg-primary-foreground sm:block">
                     <Link target="_blank" href="https://manofexistence-professional-portfolio.vercel.app/">
-                        <Image className="invert-0 dark:invert" src="/manfromexistence/backend.svg" height={75} width={75} alt="pro-portfolio" />
+                        <Image className="invert-0 dark:invert" src="/essencefromexistence/backend.svg" height={75} width={75} alt="pro-portfolio" />
                     </Link>
                 </DockIcon>
                 <DockIcon className="hidden rounded-full bg-secondary p-3 dark:bg-primary-foreground sm:block">
                     <Link target="_blank" href="https://manofexistence-brainwave.vercel.app/">
-                        <Image className="invert-0 dark:invert" src="/manfromexistence/blockchain.svg" height={75} width={75} alt="brainwave" />
+                        <Image className="invert-0 dark:invert" src="/essencefromexistence/blockchain.svg" height={75} width={75} alt="brainwave" />
                     </Link>
                 </DockIcon>
                 <DockIcon className="hidden rounded-full bg-secondary p-3 dark:bg-primary-foreground lg:block">
                     <Link target="_blank" href="https://fiverr-rocket-krypt.vercel.app/">
-                        <Image className="invert-0 dark:invert" src="/manfromexistence/deployment.svg" height={75} width={75} alt="krypt" />
+                        <Image className="invert-0 dark:invert" src="/essencefromexistence/deployment.svg" height={75} width={75} alt="krypt" />
                     </Link>
                 </DockIcon>
                 <DockIcon className="hidden rounded-full bg-secondary p-3 dark:bg-primary-foreground md:block">
                     <Link target="_blank" href="https://admin-panel-mahabub.vercel.app/">
-                        <Image className="invert-0 dark:invert" src="/manfromexistence/design-pattern.svg" height={75} width={75} alt="admin-panel" />
+                        <Image className="invert-0 dark:invert" src="/essencefromexistence/design-pattern.svg" height={75} width={75} alt="admin-panel" />
                     </Link>
                 </DockIcon>
                 <DockIcon className="hidden rounded-full bg-secondary p-3 dark:bg-primary-foreground lg:block">
                     <Link target="_blank" href="https://lolgamer-xstream.vercel.app/">
-                        <Image className="invert-0 dark:invert" src="/manfromexistence/documentation.svg" height={75} width={75} alt="xstream" />
+                        <Image className="invert-0 dark:invert" src="/essencefromexistence/documentation.svg" height={75} width={75} alt="xstream" />
                     </Link>
                 </DockIcon>
                 {/* <DockIcon className="p-3 dark:bg-primary-foreground bg-secondary rounded-full hidden md:block">
-                    <Link target="_blank" href="https://ai.manfromexistence.com">
-                        <Image className="invert-0 dark:invert" src="/manfromexistence/ai.svg" height={75} width={75} alt="ai" />
+                    <Link target="_blank" href="https://ai.essencefromexistence.com">
+                        <Image className="invert-0 dark:invert" src="/essencefromexistence/ai.svg" height={75} width={75} alt="ai" />
                     </Link>
                 </DockIcon>
 
                 <DockIcon className="p-3 dark:bg-primary-foreground bg-secondary rounded-full hidden sm:block">
-                    <Link target="_blank" href="https://algorithm.manfromexistence.com">
-                        <Image className="invert-0 dark:invert" src="/manfromexistence/algorithm.svg" height={75} width={75} alt="algorithm" />
+                    <Link target="_blank" href="https://algorithm.essencefromexistence.com">
+                        <Image className="invert-0 dark:invert" src="/essencefromexistence/algorithm.svg" height={75} width={75} alt="algorithm" />
                     </Link>
                 </DockIcon>
                 <DockIcon className="p-3 dark:bg-primary-foreground bg-secondary rounded-full">
-                    <Link target="_blank" href="https://auth.manfromexistence.com">
-                        <Image className="invert-0 dark:invert" src="/manfromexistence/auth.svg" height={75} width={75} alt="auth" />
+                    <Link target="_blank" href="https://auth.essencefromexistence.com">
+                        <Image className="invert-0 dark:invert" src="/essencefromexistence/auth.svg" height={75} width={75} alt="auth" />
                     </Link>
                 </DockIcon>
                 <DockIcon className="p-3 dark:bg-primary-foreground bg-secondary rounded-full hidden sm:block">
-                    <Link target="_blank" href="https://backend.manfromexistence.com">
-                        <Image className="invert-0 dark:invert" src="/manfromexistence/backend.svg" height={75} width={75} alt="backend" />
+                    <Link target="_blank" href="https://backend.essencefromexistence.com">
+                        <Image className="invert-0 dark:invert" src="/essencefromexistence/backend.svg" height={75} width={75} alt="backend" />
                     </Link>
                 </DockIcon>
                 <DockIcon className="p-3 dark:bg-primary-foreground bg-secondary rounded-full hidden sm:block">
-                    <Link target="_blank" href="https://blockchain.manfromexistence.com">
-                        <Image className="invert-0 dark:invert" src="/manfromexistence/blockchain.svg" height={75} width={75} alt="blockchain" />
+                    <Link target="_blank" href="https://blockchain.essencefromexistence.com">
+                        <Image className="invert-0 dark:invert" src="/essencefromexistence/blockchain.svg" height={75} width={75} alt="blockchain" />
                     </Link>
                 </DockIcon>
                 <DockIcon className="p-3 dark:bg-primary-foreground bg-secondary rounded-full hidden lg:block">
-                    <Link target="_blank" href="https://deployment.manfromexistence.com">
-                        <Image className="invert-0 dark:invert" src="/manfromexistence/deployment.svg" height={75} width={75} alt="deployment" />
+                    <Link target="_blank" href="https://deployment.essencefromexistence.com">
+                        <Image className="invert-0 dark:invert" src="/essencefromexistence/deployment.svg" height={75} width={75} alt="deployment" />
                     </Link>
                 </DockIcon>
                 <DockIcon className="p-3 dark:bg-primary-foreground bg-secondary rounded-full hidden md:block">
-                    <Link target="_blank" href="https://design-pattern.manfromexistence.com">
-                        <Image className="invert-0 dark:invert" src="/manfromexistence/design-pattern.svg" height={75} width={75} alt="design-pattern" />
+                    <Link target="_blank" href="https://design-pattern.essencefromexistence.com">
+                        <Image className="invert-0 dark:invert" src="/essencefromexistence/design-pattern.svg" height={75} width={75} alt="design-pattern" />
                     </Link>
                 </DockIcon>
                 <DockIcon className="p-3 dark:bg-primary-foreground bg-secondary rounded-full hidden lg:block">
-                    <Link target="_blank" href="https://documentation.manfromexistence.com">
-                        <Image className="invert-0 dark:invert" src="/manfromexistence/documentation.svg" height={75} width={75} alt="documentation" />
+                    <Link target="_blank" href="https://documentation.essencefromexistence.com">
+                        <Image className="invert-0 dark:invert" src="/essencefromexistence/documentation.svg" height={75} width={75} alt="documentation" />
                     </Link>
                 </DockIcon>
                 <DockIcon className="p-3 dark:bg-primary-foreground bg-secondary rounded-full hidden sm:block">
-                    <Link target="_blank" href="https://frontend.manfromexistence.com">
-                        <Image className="invert-0 dark:invert" src="/manfromexistence/frontend.svg" height={75} width={75} alt="frontend" />
+                    <Link target="_blank" href="https://frontend.essencefromexistence.com">
+                        <Image className="invert-0 dark:invert" src="/essencefromexistence/frontend.svg" height={75} width={75} alt="frontend" />
                     </Link>
                 </DockIcon>
                 <DockIcon className="p-3 dark:bg-primary-foreground bg-secondary rounded-full">
-                    <Link target="_blank" href="https://media.manfromexistence.com">
-                        <Image className="invert-0 dark:invert" src="/manfromexistence/media.svg" height={75} width={75} alt="media" />
+                    <Link target="_blank" href="https://media.essencefromexistence.com">
+                        <Image className="invert-0 dark:invert" src="/essencefromexistence/media.svg" height={75} width={75} alt="media" />
                     </Link>
                 </DockIcon>
                 <DockIcon className="p-3 dark:bg-primary-foreground bg-secondary rounded-full hidden sm:block">
-                    <Link target="_blank" href="https://package.manfromexistence.com">
-                        <Image className="invert-0 dark:invert" src="/manfromexistence/package.svg" height={75} width={75} alt="package" />
+                    <Link target="_blank" href="https://package.essencefromexistence.com">
+                        <Image className="invert-0 dark:invert" src="/essencefromexistence/package.svg" height={75} width={75} alt="package" />
                     </Link>
                 </DockIcon>
                 <DockIcon className="p-3 dark:bg-primary-foreground bg-secondary rounded-full hidden lg:block">
-                    <Link target="_blank" href="https://payment.manfromexistence.com">
-                        <Image className="invert-0 dark:invert" src="/manfromexistence/payment.svg" height={75} width={75} alt="payment" />
+                    <Link target="_blank" href="https://payment.essencefromexistence.com">
+                        <Image className="invert-0 dark:invert" src="/essencefromexistence/payment.svg" height={75} width={75} alt="payment" />
                     </Link>
                 </DockIcon>
                 <DockIcon className="p-3 dark:bg-primary-foreground bg-secondary rounded-full hidden lg:block">
-                    <Link target="_blank" href="https://privacy.manfromexistence.com">
-                        <Image className="invert-0 dark:invert" src="/manfromexistence/privacy.svg" height={75} width={75} alt="privacy" />
+                    <Link target="_blank" href="https://privacy.essencefromexistence.com">
+                        <Image className="invert-0 dark:invert" src="/essencefromexistence/privacy.svg" height={75} width={75} alt="privacy" />
                     </Link>
                 </DockIcon>
                 <DockIcon className="p-3 dark:bg-primary-foreground bg-secondary rounded-full hidden sm:block">
-                    <Link target="_blank" href="https://test.manfromexistence.com">
-                        <Image className="invert-0 dark:invert" src="/manfromexistence/test.svg" height={75} width={75} alt="test" />
+                    <Link target="_blank" href="https://test.essencefromexistence.com">
+                        <Image className="invert-0 dark:invert" src="/essencefromexistence/test.svg" height={75} width={75} alt="test" />
                     </Link>
                 </DockIcon>
                 <DockIcon className="p-3 dark:bg-primary-foreground bg-secondary rounded-full hidden lg:block">
-                    <Link target="_blank" href="https://theory.manfromexistence.com">
-                        <Image className="invert-0 dark:invert" src="/manfromexistence/theory.svg" height={75} width={75} alt="theory" />
+                    <Link target="_blank" href="https://theory.essencefromexistence.com">
+                        <Image className="invert-0 dark:invert" src="/essencefromexistence/theory.svg" height={75} width={75} alt="theory" />
                     </Link>
                 </DockIcon> */}
                 {/* <DockIcon className="dark:bg-primary-foreground bg-secondary p-1 rounded-full">
-                    <Link target="_blank" href="https://ux.manfromexistence.com">
-                        <Image className="dark:invert-0 invert" src="/manfromexistence/ux.png" height={75} width={75} alt="ux" />
+                    <Link target="_blank" href="https://ux.essencefromexistence.com">
+                        <Image className="dark:invert-0 invert" src="/essencefromexistence/ux.png" height={75} width={75} alt="ux" />
                     </Link>
                 </DockIcon>
                 <DockIcon className="p-3 dark:bg-primary-foreground bg-secondary rounded-full hidden lg:block">
-                    <Link target="_blank" href="https://workspace.manfromexistence.com">
-                        <Image className="invert-0 dark:invert" src="/manfromexistence/workspace.svg" height={75} width={75} alt="workspace" />
+                    <Link target="_blank" href="https://workspace.essencefromexistence.com">
+                        <Image className="invert-0 dark:invert" src="/essencefromexistence/workspace.svg" height={75} width={75} alt="workspace" />
                     </Link>
                 </DockIcon>
                 <DockIcon className="p-3 dark:bg-primary-foreground bg-secondary rounded-full hidden lg:block">
-                    <Link target="_blank" href="https://tool.manfromexistence.com">
-                        <Image className="invert-0 dark:invert" src="/manfromexistence/tool.svg" height={75} width={75} alt="tool" />
+                    <Link target="_blank" href="https://tool.essencefromexistence.com">
+                        <Image className="invert-0 dark:invert" src="/essencefromexistence/tool.svg" height={75} width={75} alt="tool" />
                     </Link>
                 </DockIcon>
                 <DockIcon className="p-3 dark:bg-primary-foreground bg-secondary rounded-full hidden lg:block">
-                    <Link target="_blank" href="https://benchmark.manfromexistence.com">
-                        <Image className="invert-0 dark:invert" src="/manfromexistence/benchmark.svg" height={75} width={75} alt="benchmark" />
+                    <Link target="_blank" href="https://benchmark.essencefromexistence.com">
+                        <Image className="invert-0 dark:invert" src="/essencefromexistence/benchmark.svg" height={75} width={75} alt="benchmark" />
                     </Link>
                 </DockIcon>
                 <DockIcon className="p-3 dark:bg-primary-foreground bg-secondary rounded-full hidden lg:block">
-                    <Link target="_blank" href="https://observerability.manfromexistence.com">
-                        <Image className="invert-0 dark:invert" src="/manfromexistence/observerability.svg" height={75} width={75} alt="observerability" />
+                    <Link target="_blank" href="https://observerability.essencefromexistence.com">
+                        <Image className="invert-0 dark:invert" src="/essencefromexistence/observerability.svg" height={75} width={75} alt="observerability" />
                     </Link>
                 </DockIcon> */}
                 <DockIcon className="rounded-full bg-secondary p-3 dark:bg-primary-foreground lg:hidden">
@@ -326,141 +326,141 @@ export default function IOSDOCk() {
                                     <span className="text-muted-foreground">Copy & Past some ai related code</span>
                                 </Link>
 
-                                {/* <Link className="mb-2 flex flex-col space-y-1 rounded-md bg-primary-foreground p-4 md:hidden" target="_blank" href="https://ai.manfromexistence.com">
+                                {/* <Link className="mb-2 flex flex-col space-y-1 rounded-md bg-primary-foreground p-4 md:hidden" target="_blank" href="https://ai.essencefromexistence.com">
                                     <h2>Ai</h2>
                                     <span className="text-muted-foreground">Copy & Past some ai related code</span>
                                 </Link>
-                                <Link className="mb-2 flex flex-col space-y-1 rounded-md bg-primary-foreground p-4 sm:hidden" target="_blank" href="https://algorithm.manfromexistence.com">
+                                <Link className="mb-2 flex flex-col space-y-1 rounded-md bg-primary-foreground p-4 sm:hidden" target="_blank" href="https://algorithm.essencefromexistence.com">
                                     <h2>Algorithm</h2>
                                     <span className="text-muted-foreground">Copy & Past some algorithm related code</span>
                                 </Link>
-                                <Link className="mb-2 flex flex-col space-y-1 rounded-md bg-primary-foreground p-4" target="_blank" href="https://auth.manfromexistence.com">
+                                <Link className="mb-2 flex flex-col space-y-1 rounded-md bg-primary-foreground p-4" target="_blank" href="https://auth.essencefromexistence.com">
                                     <h2>Auth</h2>
                                     <span className="text-muted-foreground">Copy & Past some auth related code</span>
                                 </Link>
-                                <Link className="mb-2 flex flex-col space-y-1 rounded-md bg-primary-foreground p-4 sm:hidden" target="_blank" href="https://backend.manfromexistence.com">
+                                <Link className="mb-2 flex flex-col space-y-1 rounded-md bg-primary-foreground p-4 sm:hidden" target="_blank" href="https://backend.essencefromexistence.com">
                                     <h2>Backend</h2>
                                     <span className="text-muted-foreground">Copy & Past some backend related code</span>
                                 </Link>
-                                <Link className="mb-2 flex flex-col space-y-1 rounded-md bg-primary-foreground p-4 sm:hidden" target="_blank" href="https://blockchain.manfromexistence.com">
+                                <Link className="mb-2 flex flex-col space-y-1 rounded-md bg-primary-foreground p-4 sm:hidden" target="_blank" href="https://blockchain.essencefromexistence.com">
                                     <h2>Blockchain</h2>
                                     <span className="text-muted-foreground">Copy & Past some auth blockchain code</span>
                                 </Link>
-                                <Link className="mb-2 flex flex-col space-y-1 rounded-md bg-primary-foreground p-4" target="_blank" href="https://deployment.manfromexistence.com">
+                                <Link className="mb-2 flex flex-col space-y-1 rounded-md bg-primary-foreground p-4" target="_blank" href="https://deployment.essencefromexistence.com">
                                     <h2>Deployment</h2>
                                     <span className="text-muted-foreground">Copy & Past some backend deployment code</span>
                                 </Link>
-                                <Link className="mb-2 flex flex-col space-y-1 rounded-md bg-primary-foreground p-4 md:hidden" target="_blank" href="https://design-pattern.manfromexistence.com">
+                                <Link className="mb-2 flex flex-col space-y-1 rounded-md bg-primary-foreground p-4 md:hidden" target="_blank" href="https://design-pattern.essencefromexistence.com">
                                     <h2>Design Pattern</h2>
                                     <span className="text-muted-foreground">Copy & Past some design-pattern related code</span>
                                 </Link>
-                                <Link className="mb-2 flex flex-col space-y-1 rounded-md bg-primary-foreground p-4" target="_blank" href="https://documentation.manfromexistence.com">
+                                <Link className="mb-2 flex flex-col space-y-1 rounded-md bg-primary-foreground p-4" target="_blank" href="https://documentation.essencefromexistence.com">
                                     <h2>Documentation</h2>
                                     <span className="text-muted-foreground">Copy & Past some documentation related code</span>
                                 </Link>
-                                <Link className="mb-2 flex flex-col space-y-1 rounded-md bg-primary-foreground p-4 sm:hidden" target="_blank" href="https://frontend.manfromexistence.com">
+                                <Link className="mb-2 flex flex-col space-y-1 rounded-md bg-primary-foreground p-4 sm:hidden" target="_blank" href="https://frontend.essencefromexistence.com">
                                     <h2>Frontend</h2>
                                     <span className="text-muted-foreground">Copy & Past some frontend related code</span>
                                 </Link>
-                                <Link className="mb-2 flex flex-col space-y-1 rounded-md bg-primary-foreground p-4 sm:hidden" target="_blank" href="https://package.manfromexistence.com">
+                                <Link className="mb-2 flex flex-col space-y-1 rounded-md bg-primary-foreground p-4 sm:hidden" target="_blank" href="https://package.essencefromexistence.com">
                                     <h2>Package</h2>
                                     <span className="text-muted-foreground">Copy & Past some package related code</span>
                                 </Link>
-                                <Link className="mb-2 flex flex-col space-y-1 rounded-md bg-primary-foreground p-4" target="_blank" href="https://privacy.manfromexistence.com">
+                                <Link className="mb-2 flex flex-col space-y-1 rounded-md bg-primary-foreground p-4" target="_blank" href="https://privacy.essencefromexistence.com">
                                     <h2>Privacy</h2>
                                     <span className="text-muted-foreground">Copy & Past some privacy related code</span>
                                 </Link>
-                                <Link className="mb-2 flex flex-col space-y-1 rounded-md bg-primary-foreground p-4 sm:hidden" target="_blank" href="https://test.manfromexistence.com">
+                                <Link className="mb-2 flex flex-col space-y-1 rounded-md bg-primary-foreground p-4 sm:hidden" target="_blank" href="https://test.essencefromexistence.com">
                                     <h2>Test</h2>
                                     <span className="text-muted-foreground">Copy & Past some test related code</span>
                                 </Link>
-                                <Link className="mb-2 flex flex-col space-y-1 rounded-md bg-primary-foreground p-4" target="_blank" href="https://theory.manfromexistence.com">
+                                <Link className="mb-2 flex flex-col space-y-1 rounded-md bg-primary-foreground p-4" target="_blank" href="https://theory.essencefromexistence.com">
                                     <h2>Theory</h2>
                                     <span className="text-muted-foreground">Copy & Past some backend theory code</span>
                                 </Link>
-                                <Link className="mb-2 flex flex-col space-y-1 rounded-md bg-primary-foreground p-4" target="_blank" href="https://workspace.manfromexistence.com">
+                                <Link className="mb-2 flex flex-col space-y-1 rounded-md bg-primary-foreground p-4" target="_blank" href="https://workspace.essencefromexistence.com">
                                     <h2>Workspace</h2>
                                     <span className="text-muted-foreground">Copy & Past some workspace related code</span>
                                 </Link>
-                                <Link className="mb-2 flex flex-col space-y-1 rounded-md bg-primary-foreground p-4" target="_blank" href="https://tool.manfromexistence.com">
+                                <Link className="mb-2 flex flex-col space-y-1 rounded-md bg-primary-foreground p-4" target="_blank" href="https://tool.essencefromexistence.com">
                                     <h2>Tool</h2>
                                     <span className="text-muted-foreground">Copy & Past some tool related code</span>
                                 </Link>
-                                <Link className="mb-2 flex flex-col space-y-1 rounded-md bg-primary-foreground p-4" target="_blank" href="https://benchmark.manfromexistence.com">
+                                <Link className="mb-2 flex flex-col space-y-1 rounded-md bg-primary-foreground p-4" target="_blank" href="https://benchmark.essencefromexistence.com">
                                     <h2>Benchmark</h2>
                                     <span className="text-muted-foreground">Copy & Past some benchmark related code</span>
                                 </Link>
-                                <Link className="mb-2 flex flex-col space-y-1 rounded-md bg-primary-foreground p-4" target="_blank" href="https://observeability.manfromexistence.com">
+                                <Link className="mb-2 flex flex-col space-y-1 rounded-md bg-primary-foreground p-4" target="_blank" href="https://observeability.essencefromexistence.com">
                                     <h2>Observeability</h2>
                                     <span className="text-muted-foreground">Copy & Past some observeability related code</span>
                                 </Link> */}
                             </div>
                             {/* <ScrollArea className="h-full w-full space-y-2 p-4 pt-2 flex flex-col overflow-auto rounded-t-[10px]">
-                                <Link className="mb-2 flex flex-col bg-primary-foreground space-y-1 p-4 rounded-md" target="_blank" href="https://ai.manfromexistence.com">
+                                <Link className="mb-2 flex flex-col bg-primary-foreground space-y-1 p-4 rounded-md" target="_blank" href="https://ai.essencefromexistence.com">
                                     <h2>Ai</h2>
                                     <span className="text-muted-foreground">Copy & Past some ai related code</span>
                                 </Link>
-                                <Link className="mb-2 flex flex-col bg-primary-foreground space-y-1 p-4 rounded-md" target="_blank" href="https://algorithm.manfromexistence.com">
+                                <Link className="mb-2 flex flex-col bg-primary-foreground space-y-1 p-4 rounded-md" target="_blank" href="https://algorithm.essencefromexistence.com">
                                     <h2>Algorithm</h2>
                                     <span className="text-muted-foreground">Copy & Past some algorithm related code</span>
                                 </Link>
-                                <Link className="mb-2 flex flex-col bg-primary-foreground space-y-1 p-4 rounded-md" target="_blank" href="https://auth.manfromexistence.com">
+                                <Link className="mb-2 flex flex-col bg-primary-foreground space-y-1 p-4 rounded-md" target="_blank" href="https://auth.essencefromexistence.com">
                                     <h2>Auth</h2>
                                     <span className="text-muted-foreground">Copy & Past some auth related code</span>
                                 </Link>
-                                <Link className="mb-2 flex flex-col bg-primary-foreground space-y-1 p-4 rounded-md" target="_blank" href="https://backend.manfromexistence.com">
+                                <Link className="mb-2 flex flex-col bg-primary-foreground space-y-1 p-4 rounded-md" target="_blank" href="https://backend.essencefromexistence.com">
                                     <h2>Backend</h2>
                                     <span className="text-muted-foreground">Copy & Past some backend related code</span>
                                 </Link>
-                                <Link className="mb-2 flex flex-col bg-primary-foreground space-y-1 p-4 rounded-md" target="_blank" href="https://blockchain.manfromexistence.com">
+                                <Link className="mb-2 flex flex-col bg-primary-foreground space-y-1 p-4 rounded-md" target="_blank" href="https://blockchain.essencefromexistence.com">
                                     <h2>Blockchain</h2>
                                     <span className="text-muted-foreground">Copy & Past some auth blockchain code</span>
                                 </Link>
-                                <Link className="mb-2 flex flex-col bg-primary-foreground space-y-1 p-4 rounded-md" target="_blank" href="https://deployment.manfromexistence.com">
+                                <Link className="mb-2 flex flex-col bg-primary-foreground space-y-1 p-4 rounded-md" target="_blank" href="https://deployment.essencefromexistence.com">
                                     <h2>Deployment</h2>
                                     <span className="text-muted-foreground">Copy & Past some backend deployment code</span>
                                 </Link>
-                                <Link className="mb-2 flex flex-col bg-primary-foreground space-y-1 p-4 rounded-md" target="_blank" href="https://design-pattern.manfromexistence.com">
+                                <Link className="mb-2 flex flex-col bg-primary-foreground space-y-1 p-4 rounded-md" target="_blank" href="https://design-pattern.essencefromexistence.com">
                                     <h2>Design Pattern</h2>
                                     <span className="text-muted-foreground">Copy & Past some design-pattern related code</span>
                                 </Link>
-                                <Link className="mb-2 flex flex-col bg-primary-foreground space-y-1 p-4 rounded-md" target="_blank" href="https://documentation.manfromexistence.com">
+                                <Link className="mb-2 flex flex-col bg-primary-foreground space-y-1 p-4 rounded-md" target="_blank" href="https://documentation.essencefromexistence.com">
                                     <h2>Documentation</h2>
                                     <span className="text-muted-foreground">Copy & Past some documentation related code</span>
                                 </Link>
-                                <Link className="mb-2 flex flex-col bg-primary-foreground space-y-1 p-4 rounded-md" target="_blank" href="https://frontend.manfromexistence.com">
+                                <Link className="mb-2 flex flex-col bg-primary-foreground space-y-1 p-4 rounded-md" target="_blank" href="https://frontend.essencefromexistence.com">
                                     <h2>Frontend</h2>
                                     <span className="text-muted-foreground">Copy & Past some frontend related code</span>
                                 </Link>
-                                <Link className="mb-2 flex flex-col bg-primary-foreground space-y-1 p-4 rounded-md" target="_blank" href="https://package.manfromexistence.com">
+                                <Link className="mb-2 flex flex-col bg-primary-foreground space-y-1 p-4 rounded-md" target="_blank" href="https://package.essencefromexistence.com">
                                     <h2>Package</h2>
                                     <span className="text-muted-foreground">Copy & Past some package related code</span>
                                 </Link>
-                                <Link className="mb-2 flex flex-col bg-primary-foreground space-y-1 p-4 rounded-md" target="_blank" href="https://privacy.manfromexistence.com">
+                                <Link className="mb-2 flex flex-col bg-primary-foreground space-y-1 p-4 rounded-md" target="_blank" href="https://privacy.essencefromexistence.com">
                                     <h2>Privacy</h2>
                                     <span className="text-muted-foreground">Copy & Past some privacy related code</span>
                                 </Link>
-                                <Link className="mb-2 flex flex-col bg-primary-foreground space-y-1 p-4 rounded-md" target="_blank" href="https://test.manfromexistence.com">
+                                <Link className="mb-2 flex flex-col bg-primary-foreground space-y-1 p-4 rounded-md" target="_blank" href="https://test.essencefromexistence.com">
                                     <h2>Test</h2>
                                     <span className="text-muted-foreground">Copy & Past some test related code</span>
                                 </Link>
-                                <Link className="mb-2 flex flex-col bg-primary-foreground space-y-1 p-4 rounded-md" target="_blank" href="https://theory.manfromexistence.com">
+                                <Link className="mb-2 flex flex-col bg-primary-foreground space-y-1 p-4 rounded-md" target="_blank" href="https://theory.essencefromexistence.com">
                                     <h2>Theory</h2>
                                     <span className="text-muted-foreground">Copy & Past some backend theory code</span>
                                 </Link>
-                                <Link className="mb-2 flex flex-col bg-primary-foreground space-y-1 p-4 rounded-md" target="_blank" href="https://workspace.manfromexistence.com">
+                                <Link className="mb-2 flex flex-col bg-primary-foreground space-y-1 p-4 rounded-md" target="_blank" href="https://workspace.essencefromexistence.com">
                                     <h2>Workspace</h2>
                                     <span className="text-muted-foreground">Copy & Past some workspace related code</span>
                                 </Link>
-                                <Link className="mb-2 flex flex-col bg-primary-foreground space-y-1 p-4 rounded-md" target="_blank" href="https://tool.manfromexistence.com">
+                                <Link className="mb-2 flex flex-col bg-primary-foreground space-y-1 p-4 rounded-md" target="_blank" href="https://tool.essencefromexistence.com">
                                     <h2>Tool</h2>
                                     <span className="text-muted-foreground">Copy & Past some tool related code</span>
                                 </Link>
-                                <Link className="mb-2 flex flex-col bg-primary-foreground space-y-1 p-4 rounded-md" target="_blank" href="https://benchmark.manfromexistence.com">
+                                <Link className="mb-2 flex flex-col bg-primary-foreground space-y-1 p-4 rounded-md" target="_blank" href="https://benchmark.essencefromexistence.com">
                                     <h2>Benchmark</h2>
                                     <span className="text-muted-foreground">Copy & Past some benchmark related code</span>
                                 </Link>
-                                <Link className="mb-2 flex flex-col bg-primary-foreground space-y-1 p-4 rounded-md" target="_blank" href="https://observeability.manfromexistence.com">
+                                <Link className="mb-2 flex flex-col bg-primary-foreground space-y-1 p-4 rounded-md" target="_blank" href="https://observeability.essencefromexistence.com">
                                     <h2>Observeability</h2>
                                     <span className="text-muted-foreground">Copy & Past some observeability related code</span>
                                 </Link>

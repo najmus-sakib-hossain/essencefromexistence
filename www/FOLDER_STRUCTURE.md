@@ -51,7 +51,7 @@ www/
 ├── public/                       # Static assets
 │   ├── avatars/                 # User avatars
 │   ├── contents/                # Content images
-│   ├── manfromexistence/        # Brand assets
+│   ├── essencefromexistence/        # Brand assets
 │   └── *.txt, *.json            # Static files
 │
 ├── registry/                     # Component registry
